@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="martin">30dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="h1">30sp</dimen>
+    <dimen name="h2">20sp</dimen>
+</resources>
